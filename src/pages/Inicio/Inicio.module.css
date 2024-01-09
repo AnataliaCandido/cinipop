@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container > div {
+    margin: 1rem;
+}
+
+.container > div > a > img {
+    width: auto;
+    height: auto;
+}
